@@ -21,4 +21,4 @@ python sender.py
 nc -v <HOST> <PORT>
 ```
 ## Notes
-### You can change port for connect in files and set custom shellcode in ```sender.py``` file.
+#### You can change port connection in files and set custom shellcode in ```sender.py``` file.
