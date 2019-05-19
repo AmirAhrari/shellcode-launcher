@@ -1,6 +1,6 @@
-# Remote Shellcode Launcher
-Simple remote shellcode launcher
-<img src="screenshot.png" hight=600>
+# Simple Remote Shellcode Launcher
+<img src="screenshot.png" hight=400>
+
 How To Use
 =
 ## Compile C file
